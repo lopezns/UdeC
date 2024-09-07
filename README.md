@@ -1,3 +1,3 @@
 # UdeC
-Student: Nicolas Lopez Sanchez
-6th semester
+# Student: Nicolas Lopez Sanchez
+# 6th semester
